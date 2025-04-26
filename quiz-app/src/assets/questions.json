@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "categorie": "Istorie",
+      "dificultate": "Ușor",
+      "intrebare": "Cine a descoperit America?",
+      "optiuni": ["Cristofor Columb", "Marco Polo", "Albert Einstein", "Isaac Newton"],
+      "corect": "Cristofor Columb"
+    },
+    {
+      "id": 2,
+      "categorie": "Matematică",
+      "dificultate": "Mediu",
+      "intrebare": "Cât este 5 + 7?",
+      "optiuni": ["10", "12", "11", "13"],
+      "corect": "12"
+    }
+  ]
+  
